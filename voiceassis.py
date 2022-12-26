@@ -49,22 +49,29 @@ if __name__ == '__main__':
             print(results)
         elif 'who is the course instructor of this course' in query:
             speak("doctor sd samantaray who is  the head of computer engineering department and his specializations in Artificial Intelligence Natural Language Processing (NLP) Data and Knowledge Mining Cyber Security and Computational Intelligence ")
+            print("Dr. S.D. Samantaray who is  the head of computer engineering department and his specializations in Artificial Intelligence, Natural Language Processing (NLP), Data and Knowledge Mining, Cyber Security and Computational Intelligence")
         elif 'who are you' in query:
             speak("I am  friday the voice assistant which are programmed for the course of programming for artificial intelligence and machine learning applications by tarun kumar, mansi bisht, abhinav,deepika verma and yash arya   ")
+            print("I am  friday the voice assistant which are programmed for the course of programming for artificial intelligence and machine learning applications by Tarun Kumar, Mansi Bisht, Abhinav,Deepika Verma and Yash Arya ")
         elif 'who is tarun' in query:
             speak("He is an engineering student from pantnagar and he is  my friend ")
+            print("He is an engineering student from pantnagar and he is  my friend")
         elif 'who is mansi bisht' in query:
             speak("She is a brilliant engineering student from pantnagar and she is  my friend ")
+            print("She is a brilliant engineering student from pantnagar and she is  my friend")
         elif 'who is abhinav' in query:
             speak("He is an engineering student from pantnagar and he is a part of this project ")
+            print("He is an engineering student from pantnagar and he is a part of this project")
         elif 'who is deepika' in query:
             speak("she is an tallented engineering student from pantnagar and she is a part of this project ")
+            print("she is an tallented engineering student from pantnagar and she is a part of this project")
         elif 'who is yash arya' in query:
             speak("He is an engineering student from pantnagar and he is  my friend ")
+            print("He is an engineering student from pantnagar and he is  my friend")
         elif 'give me your contact number' in query:
             speak("9368045239")
             print("9398045239")
-        elif 'when is taruns birthday' in query:
+        elif 'when is your birthday' in query:
             speak("eighteen january ")
             print("18 january")
         elif 'what is your email id' in query:
