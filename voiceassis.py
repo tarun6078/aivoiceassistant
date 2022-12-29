@@ -5,7 +5,6 @@ import webbrowser
 import datetime
 import os 
 
-# init pyttsx
 engine = pyttsx3.init("sapi5")
 voices = engine.getProperty("voices")
 engine.setProperty("rate",158)
